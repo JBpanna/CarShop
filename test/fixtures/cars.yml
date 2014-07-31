@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Vehicle_ID: 1
+  engine_type: MyString
+  is_four_door: false
+
+two:
+  Vehicle_ID: 1
+  engine_type: MyString
+  is_four_door: false
